@@ -1,0 +1,11 @@
+#pragma once
+
+enum EntityState
+{
+    ENTITY_STATE_IDLE,
+    ENTITY_STATE_ON_GROUD,
+    ENTITY_STATE_JUMPING,
+    ENTITY_STATE_FALLING,
+    
+    ENTITY_STATE_DYING,
+};
