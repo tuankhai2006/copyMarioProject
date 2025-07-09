@@ -3,50 +3,66 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "resources/Map/map0.json",
+    "activeFile": "resources/Map/Map1.json",
     "expandedProjectPaths": [
         ".",
+        "resources/Entity",
         "resources",
         "resources/Map"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "resources/Entity/Tileset.tsx": {
-            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "resources/Map/map0.json": {
-            "scale": 1,
-            "selectedLayer": 0,
+        "resources/Map/Blocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "resources/Map/Enemies.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "resources/Map/Map1.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 843.5,
-                "y": 581.5
+                "x": 3325.333333333333,
+                "y": 569.9999999999999
             }
         },
         "resources/Map/map1.json": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 561,
-                "y": 583.5
+                "x": 306.66666666666663,
+                "y": 459.33333333333326
             }
         }
     },
-    "last.imagePath": "D:/Project/Mario/resources/Entity/Tiles",
+    "last.externalTilesetPath": "D:/Project/Mario/resources/Map",
+    "last.imagePath": "D:/Project/Mario/resources/Entity/Items",
     "map.height": 30,
     "map.lastUsedFormat": "json",
-    "map.width": 50,
+    "map.width": 200,
     "openFiles": [
-        "resources/Map/map0.json",
-        "resources/Entity/Tileset.tsx"
+        "resources/Map/Enemies.tsx",
+        "resources/Entity/Tileset.tsx",
+        "resources/Map/Blocks.tsx",
+        "resources/Map/Map1.json"
     ],
     "project": "Tile.tiled-project",
+    "property.type": "int",
     "recentFiles": [
+        "resources/Map/Enemies.tsx",
         "resources/Entity/Tileset.tsx",
-        "resources/Map/map0.json",
+        "resources/Map/Blocks.tsx",
+        "resources/Map/Map1.json",
         "resources/Map/map1.json"
     ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.type": 1
 }
